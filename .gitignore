@@ -1,0 +1,6 @@
+# IDE
+.idea/
+.vscode/
+
+# Packaged mod archives
+*.zip
